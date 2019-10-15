@@ -20,3 +20,5 @@ while True:
     print(status)
     if (status == 'TRUE'):
         print('activate drone')
+        
+        #gg
