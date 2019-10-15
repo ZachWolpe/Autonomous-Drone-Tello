@@ -20,5 +20,8 @@ while True:
     print(status)
     if (status == 'TRUE'):
         print('activate drone')
+<<<<<<< HEAD
         
         #gg
+=======
+>>>>>>> ecb88fa45136872cee4483315e3d253566df60a7
